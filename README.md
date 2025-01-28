@@ -1,5 +1,3 @@
-
-
 # Welcome to Nocturnalyze Research Website
 
 # About Us
