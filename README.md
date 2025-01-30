@@ -11,13 +11,13 @@ Environmental Sensing via temperature and sound
 
 # Current Projects
 
-__Sleep Disturbances__
+  __Sleep Disturbances__
 Investigation of sleep disruptions in college students and their impact on mental health, academic performance, and overall well-being. 
-__Non-Invasive Technology__
+  __Non-Invasive Technology__
 Development of a real-time, low cost sleep monitoring system using off-the-shelf components and advanced sensing techniques. 
-__Therapeutic Aspects__
+  __Therapeutic Aspects__
 Implementation of Adaptive interventions to improve sleep quality and mitigate symptoms linked to sleep disturbances. 
-__Environmental Sensing__
+  __Environmental Sensing__
 Utilization of temperature and sound monitoring to assess external factors contributing to sleep disturbances.
 
 
