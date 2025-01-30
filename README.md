@@ -27,9 +27,14 @@ Utilization of temperature and sound monitoring to assess external factors contr
 
 # Contact
 Emails: 
+
 Libby Segal: Libby.Segal@unh.edu
+
 Dylan Callahan: Dylan.Callahan@unh.edu
+
 Jackie Wolthers: Jack.Wolthers@unh.edu
+
 Erin McDonald: Erin.McDonald@unh.edu
+
 # Advisor Contact:
 John LaCourse: John.LaCourse@unh.edu
