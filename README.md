@@ -26,6 +26,7 @@ Utilization of temperature and sound monitoring to assess external factors contr
 
 ## Contact
 __Emails:__ 
+
 __Libby Segal:__ Libby.Segal@unh.edu
 
 __Dylan Callahan:__ Dylan.Callahan@unh.edu
