@@ -1,4 +1,4 @@
-# Welcome to Nocturnalyze Research Website
+### Welcome to Nocturnalyze Research Website
 
 # About Us
 We are a Senior Project team at the University of New Hampshire in the Electrical and Computer Engineering department. Our project is focuing on the biomedical aspects of ECE, as well as incorporating some interests such as therapuetics. 
@@ -10,7 +10,6 @@ Therapeutic Aspects
 Environmental Sensing via temperature and sound
 
 # Current Projects
-
 
 __Sleep Disturbances__
 Investigation of sleep disruptions in college students and their impact on mental health, academic performance, and overall well-being. 
@@ -28,13 +27,13 @@ Utilization of temperature and sound monitoring to assess external factors contr
 # Contact
 Emails: 
 
-Libby Segal: Libby.Segal@unh.edu
+__Libby Segal:__ Libby.Segal@unh.edu
 
-Dylan Callahan: Dylan.Callahan@unh.edu
+__Dylan Callahan:__ Dylan.Callahan@unh.edu
 
-Jackie Wolthers: Jack.Wolthers@unh.edu
+__Jackie Wolthers:__ Jack.Wolthers@unh.edu
 
-Erin McDonald: Erin.McDonald@unh.edu
+__Erin McDonald:__ Erin.McDonald@unh.edu
 
 # Advisor Contact:
-John LaCourse: John.LaCourse@unh.edu
+__John LaCourse:__ John.LaCourse@unh.edu
