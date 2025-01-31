@@ -4,13 +4,6 @@
 We are a Senior Project team at the University of New Hampshire in the Electrical and Computer Engineering department. Our project is focuing on the biomedical aspects of ECE, as well as incorporating some interests such as therapuetics. 
 
 ## Research Focus
-Sleep Disturbance
-Non-Invasive technology
-Therapeutic Aspects
-Environmental Sensing via temperature and sound
-
-## Current Projects
-
 __Sleep Disturbances__
 Investigation of sleep disruptions in college students and their impact on mental health, academic performance, and overall well-being. 
   
@@ -23,6 +16,10 @@ Implementation of Adaptive interventions to improve sleep quality and mitigate s
 __Environmental Sensing__
 Utilization of temperature and sound monitoring to assess external factors contributing to sleep disturbances.
 
+## Current Projects
+__Non-Invasive Sleep Monitoring and Therapeutic System__
+
+__Focus:__ Developing a non-invasive sensor system integrating a bed pad and control box to monitor sleep disturbances through sound, pressure, and temperature sensing. The system responds by playing therapeutic noises and light to improve sleep quality.  
 
 ## Contact
 __Emails:__ 
