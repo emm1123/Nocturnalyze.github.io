@@ -23,10 +23,16 @@ __Focus:__ Developing a non-invasive sensor system integrating a bed pad and con
 
 ## References
 __[1]__  A. Datta et al., “Sleep disturbance and its effect on academic performance among students of a Medical College of tripura,” International Journal Of Community Medicine And Public Health, vol. 6, no. 1, p. 293, Dec. 2018. doi:10.18203/2394-6040.ijcmph20185261 
+
 __[2]__ S. Hershner and R. Chervin, “Causes and consequences of sleepiness among college students,” Nature and Science of Sleep, p. 73, Jun. 2014. doi:10.2147/nss.s62907
+
 __[3]__ D. Koren and E. M. Taveras, “Association of sleep disturbances with obesity, insulin resistance and the metabolic syndrome,” Metabolism, vol. 84, pp. 67–75, Jul. 2018. doi:10.1016/j.metabol.2018.04.001
+
 __[4]__ L. Rachakonda, S. P. Mohanty, E. Kougianos, K. Karunakaran, and M. Ganapathiraju, “Smart-pillow: An IOT based device for stress detection considering sleeping habits,” 2018 IEEE International Symposium on Smart Electronic Systems (iSES) (Formerly iNiS), vol. 13, pp. 161–166, Dec. 2018. doi:10.1109/ises.2018.00043
-__[5]__ T. T. Zhang et al., “Identifying trajectories of change in sleep disturbance during psychological treatment for depression,” Journal of Affective Disorders, vol. 365, pp. 659–668, Nov. 2024. doi:10.1016/j.jad.2024.08.027 
+
+__[5]__ T. T. Zhang et al., “Identifying trajectories of change in sleep disturbance during psychological treatment for depression,” Journal of 
+Affective Disorders, vol. 365, pp. 659–668, Nov. 2024. doi:10.1016/j.jad.2024.08.027 
+
 ## Contact
 __Emails:__ 
 
